@@ -1,6 +1,4 @@
-# FrontEnd Challenge – IPL
-
-Challenge to build a data visualization on a web app with the chart from IPL (Indian Premier League) data provided in CSV files. The goal was to show stats and interesting information about IPL to someone who is New to IPL.
+# FrontEnd Challenge – Scoring Details with routing
 
   - Good UI/UX 
   - Responsive Design and Everything
